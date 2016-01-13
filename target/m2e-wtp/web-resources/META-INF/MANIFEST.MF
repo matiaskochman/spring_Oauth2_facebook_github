@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Oauth2Facebook
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Matias
+Implementation-Vendor-Id: com.oauth2.faceboookLogin
+Build-Jdk: 1.8.0_65
+Implementation-URL: http://projects.spring.io/spring-boot/Oauth2Facebo
+ ok/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
